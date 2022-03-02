@@ -5,7 +5,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-    etails: [
+      details: [
         {
           name: 'Tiger',
           number: 3890,
